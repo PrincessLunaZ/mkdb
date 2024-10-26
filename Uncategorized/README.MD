@@ -1,0 +1,1 @@
+This section is for files that simply don't fit any of the other categorys. These can range from text files to just random things. These should usually have a text file in the .ZIP that states what it is to avoid confusion. Be cautious because these could be *anything*.
