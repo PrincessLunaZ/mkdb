@@ -154,7 +154,7 @@ These samples are the "Gold" of my collection, and as I add more samples, More w
 
 ## Our nice contributors! 😁
 
-PiRFale-Danger (https://github.com/PiRFale-Danger)
+PiRFale-Danger (~~https://github.com/PiRFale-Danger~~ He deleted his account/changed the name of his account to FelloBoiYuuka as of Oct 26 2024, he changes his name regularly to avoid detection.)
 
 ~~Contributed: CHUCHA, Proof Defender 2009, Rias Trojan, Goggle.com Trojan, (partially) Live-Player, PC Purifier, and (almost) everything uploaded on June 25th, 2024, June 26th, 2024, and June 28th, 2024.~~
 
@@ -164,6 +164,13 @@ If you want to be on this list, simply just submit some malware! 🙃
 
 ![image](https://github.com/user-attachments/assets/80746c8b-858c-4140-915e-b873ceb28357)
 
+He also made gay porn of me and the software "VMWare" using MSPaint
+
+Another thing is he doxxed himself, and leaked his schools name. I have that information and I'm choosing not to share it because of legal reasons. He also had leaked all of his friends names and emails.
+
+### IF YOU ARE FOLLOWING THIS PERSON [FelloBoiYuuka] PLEASE UNFOLLOW THEM AS THEY ARE RACIST.
+
+Moral of the story: Be careful what you share on the internet if you're going to called a friend the hard R. I am white, so the slur was not directed at my race, but still, imagine if I was a black man.
 
 ## Inspired by:
 
