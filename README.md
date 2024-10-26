@@ -158,8 +158,6 @@ PiRFale-Danger (~~https://github.com/PiRFale-Danger~~ He deleted his account/cha
 
 ~~Contributed: CHUCHA, Proof Defender 2009, Rias Trojan, Goggle.com Trojan, (partially) Live-Player, PC Purifier, and (almost) everything uploaded on June 25th, 2024, June 26th, 2024, and June 28th, 2024.~~
 
-If you want to be on this list, simply just submit some malware! 🙃
-
 ### URGENT UPDATE AS OF JULY 2024, DO NOT FOLLOW "PiRFale-Danger" or any of his alt accounts. He was exposed as being racist and sent emails to me calling me a racial slur.
 
 ![image](https://github.com/user-attachments/assets/80746c8b-858c-4140-915e-b873ceb28357)
@@ -170,7 +168,9 @@ Another thing is he doxxed himself, and leaked his schools name. I have that inf
 
 ### IF YOU ARE FOLLOWING THIS PERSON [FelloBoiYuuka] PLEASE UNFOLLOW THEM AS THEY ARE RACIST.
 
-Moral of the story: Be careful what you share on the internet if you're going to called a friend the hard R. I am white, so the slur was not directed at my race, but still, imagine if I was a black man.
+Moral of the story: Be careful what you share on the internet if you're going to call a (now-ex)-friend the hard R. I am white, so the slur was not directed at my race, but still, imagine if I was a black man.
+
+If you want to be on this list, simply just submit some malware! 🙃
 
 ## Inspired by:
 
