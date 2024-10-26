@@ -156,9 +156,14 @@ These samples are the "Gold" of my collection, and as I add more samples, More w
 
 PiRFale-Danger (https://github.com/PiRFale-Danger)
 
-Contributed: CHUCHA, Proof Defender 2009, Rias Trojan, Goggle.com Trojan, (partially) Live-Player, PC Purifier, and (almost) everything uploaded on June 25th, 2024, June 26th, 2024, and June 28th, 2024.
+~~Contributed: CHUCHA, Proof Defender 2009, Rias Trojan, Goggle.com Trojan, (partially) Live-Player, PC Purifier, and (almost) everything uploaded on June 25th, 2024, June 26th, 2024, and June 28th, 2024.~~
 
 If you want to be on this list, simply just submit some malware! 🙃
+
+### URGENT UPDATE AS OF JULY 2024, DO NOT FOLLOW "PiRFale-Danger" or any of his alt accounts. He was exposed as being racist and sent emails to me calling me a racial slur.
+
+![image](https://github.com/user-attachments/assets/80746c8b-858c-4140-915e-b873ceb28357)
+
 
 ## Inspired by:
 
