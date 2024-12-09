@@ -1,0 +1,1 @@
+These are NOT viruses but can be used in a harmful way or destructive manner. These include tools like Flash Player, and File Shredder, which are awesome tools, but when used incorrectly are very dangerous.
