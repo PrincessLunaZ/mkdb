@@ -134,7 +134,11 @@ A: It would be kind, and I would like to see what you do with it if you upload i
 
 -Cheat Lab 2.7.1
 
-Google.com recreated in a file
+-Goggle.com recreated in a file
+
+-SteelFox Keygens
+
+-Dave Plummer PUPs
 
 -------
 
@@ -148,9 +152,9 @@ Or
 
 c) Just exciting overall
 
------
-
 These samples are the "Gold" of my collection, and as I add more samples, More will be added to this list!
+
+-----
 
 ## Our nice contributors! 😁
 
