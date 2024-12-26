@@ -1,6 +1,6 @@
-These samples are Chrome extensions. This "Readme" will be more detailed because I haven't seen other malware repositorys with this type of sample yet. 
+These samples are Google Chrome extensions. This "README" will be more detailed because I haven't seen other malware repositories with this type of sample yet. 
 
-If you have no clue how to install one of the chrome extensions, here a step-by-step guide on how to:
+If you have no clue how to install one of the chrome extensions, here a step-by-step guide on how to install one:
 
 ### Step 1
 
@@ -12,15 +12,15 @@ Extract (unzip) the .zip file you downloaded.
 
 ### Step 3
 
-If you have Chrome Version 68 or under, use the "CRX" Folder. If you have a version older than that (pretty likely) than choose the "source" folder.
+If you have Chrome Version 68 or under, use the .CRX File. If you have a version newer than that (pretty likely) than choose the "Source" folder.
 
-Here are a way each to install a chrome extension from this malware database.
+Here are two methods to install these Chrome extensions.
 
 ## "Source" Folder
 
-1: Make sure your zip file with the chrome extension is saved to your desktop.
+1: Make sure your .Zip file with the Chrome extension is saved to your preferable place.
 
-2: Go to extensions page in chrome that is usually in chrome://extensions/ .
+2: Go to Extensions page in Chrome that should be in in chrome://extensions/ .
 
 3: Enable Developer Mode if it isn't enabled already.
 
@@ -28,7 +28,7 @@ Here are a way each to install a chrome extension from this malware database.
 
 5: Chrome will prompt you for a folder. Select the "Source" Folder you dragged to the desktop.
 
-If Chrome says that the extension is missing a manifest file, Try to load unpacked again, and if there's a folder with a random string of letters and numbers as it's name inside of the "Source" folder, click and use that folder instead.
+If Chrome says that the extension is missing a manifest file, Try to click 'Load Unpacked' again.
 
 6: The Chrome extension should be installed.
 
@@ -44,4 +44,6 @@ If Chrome says that the extension is missing a manifest file, Try to load unpack
 
 ### Step 4
 
-It should have successfully installed. If it did, enjoy your hijacked Chrome!
+It should have successfully installed. If it did, enjoy your infested Chrome!
+
+# Please note that the manifest versions on most of these extensions are outdated, so Chrome may/may not accept them. You can install an older version of Google Chrome to circumvent this issue.
