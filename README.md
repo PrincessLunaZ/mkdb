@@ -22,10 +22,30 @@ Parallels,
 and Microsoft Azure
 
 The password for all zip files is "1337" without the quotation marks. USE AT YOUR OWN RISK.
+
 Tip: If your running ransomware, NEVER USE SHARED FOLDERS!
+
 All viruses belong to their original owners.
+
 I feel like most people don't like malware only because it could harm their computer, but I view it a different way.
+
 Malware isnt always bad, as long as you know what your doing, have the correct programs, and take proper precautions, malware can be fun to experiment with!
+
+## WARNING: These samples are provided AS-IS. Rarely will I ever fix them (unless they are listed under My-Viruses) and if they don't work, open an issue and i'll add them to the below list. (No I'm not removing them, that disgraces the art of archiving.)
+
+The reason most of them don't work is because in the early days of this repository, I would just upload a sample without testing them in VMs first, knowing full well I had like 100 VMs (and still do,) my fault LOL.
+
+### The following are samples that are known to not work:
+
+Prime Updater, One, Updater, and VLC Plus Player (Tested on Windows 7 and XP, among other OS'es probably.)
+
+Chedot (WORKS but takes very long to finish setup (Tested on Windows XP.))
+
+CursorMania (Is a crappy cursor toolbar that fails to install, (Tested on Windows 7))
+
+AppGraffiti (AppGraffiti itself WORKS, but the optional offers don't work, you should decline them. (Tested on Windows 7, XP, and 8))
+
+--End of List--
 
 ## Extracting Splitted ZIPs
 
@@ -172,3 +192,5 @@ Go support them too!
 
 Remember, I am not responsible for any DAMAGES done by these viruses.
 Stay safe, and have fun.
+
+![bonzi-1](https://github.com/user-attachments/assets/e3bf2268-7a0f-4f8a-ac58-0e6963da25b2)
