@@ -9,9 +9,9 @@ I think I should note that despite probably everyone noticing, if you didn't not
 
 Virtual Machines you can use:
 
-VMWare (I used to use until Version 17) (I also wouldn't recommend it because it requires you to pay for every new version and its a lot of money so yeah),
+VMWare (I use, version 17.5, also very good for running VMs and supports Windows 9x with VMWare Tools),
 
-Virtualbox (I use),
+Virtualbox,
 
 Hyper-X Hypervisor,
 
